@@ -1,0 +1,33 @@
+.wufoo input.field.text, .wufoo textarea.field.textarea, .wufoo select.field.select {
+    padding-left: 20px;
+    padding-right: 20px;
+    -webkit-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #e3e3e3;
+    border-radius: 3px;
+    height: 20px;
+    line-height: 21px;
+}
+
+.wufoo input.btTxt.submit {
+    display: inline-block;
+    line-height: 36px;
+    padding: 0 2em;
+    border: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    vertical-align: top;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    background: rgba(71,160,255,0.8);
+    margin-top: -8px;
+}
